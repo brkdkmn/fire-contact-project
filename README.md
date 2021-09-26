@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<img src="./public/img/ezgif.com-gif-maker.gif" alt="Projem GIF" width="800" height="475">
+
+
 ## Available Scripts
 
 In the project directory, you can run:
