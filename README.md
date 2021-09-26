@@ -69,5 +69,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-<img src="./public/img/ezgif.com-gif-maker.gif" alt="Projem GIF" width="500" height="600">
+<img src="./public/img/ezgif.com-gif-maker.gif" alt="Projem GIF" width="650" height="600">
 
